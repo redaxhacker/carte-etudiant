@@ -1,3 +1,3 @@
 # carte-etudiant
 TP React Native : Ma Première Carte d’Étudiant avec Expo 
-![Alt text](screenshot.png)
+![Alt text](Screenshot.png)
